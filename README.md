@@ -21,8 +21,8 @@ The goal of this repository is to:
 - Logging, monitoring, and basic threat detection
 
 ## Certifications & Learning
-- Google Cybersecurity Professional Certificate (Completed)
-- AWS Cloud Practitioner Essentials (In progress)
+- [Google Cybersecurity Professional Certificate](01-certifications/google-cybersecurity-professional-certificate.md) — Completed
+- [AWS Cloud Practitioner Essentials](01-certifications/aws-cloud-practitioner.md) — In progress
 
 ## Structure (will evolve)
 - Core cloud concepts
